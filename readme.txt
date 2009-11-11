@@ -14,11 +14,11 @@ Slide 7:
 3. show datsource name convention and set it to our datasource
 
 Slide 8:
-1. Download Scaffolding plugin from cfhwheels.org/plugins
+1. Download Scaffolding plugin from http://cfwheels.org/plugins
 2. Place zip in the plugins folder
 3. Reload CFWheels and click on Scaffolding link
 4. Load mySql.sql script to create tables
-6. Run scaffolding plugin to create model, views, and controoler
+6. Run scaffolding plugin to create model, views, and controller
 7. Add record, look at the interface created (example: http://localhost/index.cfm/evals )
 
 Slide 9:
